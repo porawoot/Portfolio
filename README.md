@@ -2,8 +2,9 @@
 *An Aspiring Data Enthusiast*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Masters of Science in Business Analytics and Data Science (Data Science), *National Institute of Development Administration*, 2020 - present
+* Master of Science in Forensic Science, *Mahidol University*, 2004-2006
+* Bachelor of Science in Medical Technology, *Chulalongkorn University*, 1998-2002
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
