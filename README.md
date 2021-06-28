@@ -6,9 +6,8 @@
 * Master of Science in Forensic Science, *Mahidol University*, 2004-2006
 * Bachelor of Science in Medical Technology, *Chulalongkorn University*, 1998-2002
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: NBA Player Stats Explorer](http://youtube.com/dataprofessor)
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+This app performs simple webscraping of NBA player stats data.
+* **Python libraries:** base64, pandas, streamlit
+* **Data source:** [Basketball-reference.com](https://www.basketball-reference.com/)
