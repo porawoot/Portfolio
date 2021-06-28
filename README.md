@@ -7,7 +7,7 @@
 * Bachelor of Science in Medical Technology, *Chulalongkorn University*, 1998-2002
 
 # [Project 1: NBA Player Stats Explorer](http://youtube.com/dataprofessor)
-![NBA Player Stats Explorer](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![NBA Player Stats Explorer](neonbrand-UegcSdRtmlg-unsplash.jpg)
 
 This app performs simple webscraping of NBA player stats data.
 * **Python libraries:** base64, pandas, streamlit
