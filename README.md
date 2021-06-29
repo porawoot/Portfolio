@@ -7,7 +7,7 @@
 * Bachelor of Science in Medical Technology, *Chulalongkorn University*, 1998-2002
 
 # [Project 1: NBA Player Stats Explorer](http://youtube.com/dataprofessor)
-![NBA Player Stats Explorer](neonbrand-UegcSdRtmlg-unsplash.jpg)
+![NBA Player Stats Explorer](neonbrand-UegcSdRtmlg-unsplash.png)
 <br>Photo by <a href="https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NeONBRAND</a> on <a href="https://unsplash.com/s/photos/nba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 This app performs simple webscraping of NBA player stats data.
